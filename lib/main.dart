@@ -31,3 +31,10 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+
+
+//OPEN_WEATHER_API_KEY=291fe3485c9dd59b8b3e8cb0c14d2032
+//BASE_URL=https://api.openweathermap.org/data/2.5
+//cityName = Delhi
